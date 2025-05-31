@@ -88,7 +88,7 @@ HelpManager.showContextHelp(requireContext(), R.string.help_home)
 ```
 
 **Referencia técnica:**  
-!INCLUDE dokka/markdown/-app-notas/com.example.appnotas.helpers/-help-manager.md
+[HelpManager](dokka/markdown/-app-notas/com.example.appnotas.helpers/-help-manager.md)
 
 ---
 
